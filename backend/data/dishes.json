@@ -1,0 +1,87 @@
+[
+ {
+  "title": "qweqw",
+  "price": "12312",
+  "desc": "asddas",
+  "img": "https://i.ibb.co/hVRQmnN/7.png",
+  "category": "Новое блюдо",
+  "id": "a5db3b03-cc1d-4ed2-ac15-f03c97d1190d",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   0
+  ]
+ },
+ {
+  "title": "qweqw",
+  "price": "12312",
+  "desc": "asddas",
+  "img": "https://i.ibb.co/hVRQmnN/7.png",
+  "category": "Новое блюдо",
+  "id": "0404f2a4-fb40-4830-a9cb-a42490bb3a64",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   0
+  ]
+ },
+ {
+  "title": "qweqw",
+  "price": "12312",
+  "desc": "asddas",
+  "img": "https://i.ibb.co/hVRQmnN/7.png",
+  "category": "Новое блюдо",
+  "id": "b6ff3fbe-79e6-4998-8672-dad2a1dd52a6",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   0
+  ]
+ },
+ {
+  "title": "qweqw",
+  "price": "12312",
+  "desc": "asddas",
+  "img": "https://i.ibb.co/hVRQmnN/7.png",
+  "category": "Новое блюдо",
+  "id": "33f5b5fb-2d71-4ab6-8163-04965bb2a005",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   0
+  ]
+ },
+ {
+  "title": "qweqw",
+  "price": "12312",
+  "desc": "asddas",
+  "img": "https://i.ibb.co/hVRQmnN/7.png",
+  "category": "Новое блюдо",
+  "id": "eda946f7-d973-407e-b927-e13b9ae36eb6",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   0
+  ]
+ }
+]

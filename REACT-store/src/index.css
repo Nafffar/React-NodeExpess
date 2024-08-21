@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Rubik+Bubbles&family=Shojumaru&display=swap');
+
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+  font-family: "Literata", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+body
+{
+  padding: 25px 0;
+  background-image: url(./img/Background.jfif);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+@media (max-width: 1280px){
+  body{
+      padding: 0;
+  }
+}

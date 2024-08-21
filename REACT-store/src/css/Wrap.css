@@ -1,0 +1,21 @@
+.wrap
+{
+    width: 1280px;
+    margin: auto;
+
+    background-color: #32261e;
+    color: black;
+    box-shadow: 10px 10px 20px black, -10px -10px 20px black;
+
+    font-family: "Literata", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@media (max-width: 1280px){
+    .wrap{
+        width: 100%;
+    }
+}

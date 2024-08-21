@@ -1,0 +1,24 @@
+# dependencies
+/REACT-store/node_modules
+/REACT-store/.pnp
+/REACT-store.pnp.js
+
+# testing
+/REACT-store/coverage
+
+# production
+/REACT-store/build
+
+# misc
+/REACT-store/DS_Store
+/REACT-store/env.local
+/REACT-store/env.development.local
+/REACT-store/env.test.local
+/REACT-store/env.production.local
+
+/REACT-store/npm-debug.log*
+/REACT-store/yarn-debug.log*
+/REACT-store/yarn-error.log*
+
+
+/backend/node_modules
